@@ -1,0 +1,46 @@
+/*
+Jake Kelly
+10/07/2020
+styles.css
+*/
+/* Reset Stlye to make sure page is uniform before updates*/
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #9EE0FD;
+  }
+  
+  #img {
+    display: block;
+    width : 100%;
+    height: auto;
+    max-width: 100%;
+  }
+  
+  nav {
+  list-style-type: none;
+  }
+  
+  .emailSytel{
+    font-size: 20px;
+  }
+  
+  h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+  }
+  
+  header {
+    clear: both;
+  }
+  
+  .ourDogs {
+    float: left;
+  }
+  
+  footer {
+      text-align: center;
+      font-size: 0.85em;
+      background-color: cornflowerblue;
+  }
+  
